@@ -34,7 +34,7 @@ function App() {
       <div className="flex justify-center items-center h-screen bg-gray-200">
         <div className="overlay w-full h-screen">
           <div className="container mx-auto">
-            <h1 className="text-3xl lg:text-4xl font-bold text-center mb-8 text-white">
+            <h1 className="text-3xl lg:text-4xl font-bold text-center mb-8 text-black">
               Tiktok Downloader
             </h1>
             <div className="max-w-lg mx-auto bg-white rounded-lg shadow-lg p-6">
